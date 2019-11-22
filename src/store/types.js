@@ -1,0 +1,6 @@
+export const LOADDATA = 'products/loadData'
+export const SETPRODUCTS = 'products/setProducts'
+export const CHANGEINVENTORY = 'products/changeInventory'
+export const SETINVENTORY = 'products/setInventory'
+export const SETLIST = 'carts/setList'
+export const ADDPRODUCTSTOCART = 'carts/addProductsToCarts'
